@@ -2,5 +2,9 @@
 __pycache__/
 .ipynb_checkpoints/
 data
+<<<<<<< HEAD
 images
 logs
+=======
+logs
+>>>>>>> 4cb47b1f18e471addbbbe0ac045bed95a4c0eb6f
